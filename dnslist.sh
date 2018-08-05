@@ -1,6 +1,7 @@
 #!/bin/bash
 
 if [ -z "$1" ]; then
+        echo "***"
         echo "hackingyseguridad.com 2018"
         echo "Descubre subdominios.. "
         echo "Uso: $0 <dominio.com>"
