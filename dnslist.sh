@@ -14,9 +14,10 @@ if [ -z "$1" ]; then
         echo "Uso: $0 <dominio.com>"
         exit 0
 fi
-
-echo "==================="
 echo
+echo "======================================"
+echo "| Subdominios de, "$1, " |"
+echo "======================================"
 
 for n in `cat subdominios.txt`
 
