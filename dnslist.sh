@@ -16,7 +16,7 @@ if [ -z "$1" ]; then
 fi
 echo
 echo "======================================"
-echo "| Subdominios de, "$1, " |"
+echo "| Subdominios de, ", $1 , " |"
 echo "======================================"
 
 for n in `cat subdominios.txt`
