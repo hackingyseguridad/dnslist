@@ -27,7 +27,7 @@ for n in `cat subdominios.txt`
 do
         fqdn=$n"."$1
 if host $fqdn > /dev/null
-then echo $fqdn
+then echo $fqdn && echo $fqdn >> resultado.txt
 fi
 
 done
