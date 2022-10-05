@@ -30,4 +30,4 @@ echo "==========================================="
 echo "| Subdominios de: " $1 " |"
 echo "==========================================="
 echo
-subfinder -d $1 --silent -o subdominios.txt
+subfinder -d $1 --silent -o resultado.txt
