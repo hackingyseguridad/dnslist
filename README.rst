@@ -12,7 +12,7 @@ chmod 777 dnslist.sh
 
 Uso.:
 
-#sh dnslist.sh dominio
+#sh dnslist.sh dominio && > resultado.txt
 
 www.hackingyseguridad.com
 
