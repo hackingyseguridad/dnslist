@@ -1482,7 +1482,7 @@ kill %dnslist 2>/dev/null
 
 ---
 
-## 🐛 Solución de Problemas
+### Solución de Problemas
 
 ### Problema 1: "comando no encontrado: dnslist.sh"
 
@@ -1631,7 +1631,7 @@ tail -f resultado.txt
 
 ---
 
-## ❓ Preguntas Frecuentes
+### Preguntas Frecuentes
 
 ### P: ¿Es legal usar DNSList?
 
