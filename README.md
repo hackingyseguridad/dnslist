@@ -1744,25 +1744,7 @@ EL USUARIO ES TOTALMENTE RESPONSABLE DE:
 
 ---
 
-### Contacto y Soporte
-
-- **Web**: https://www.hackingyseguridad.com
-- **Email**: contacto@hackingyseguridad.com
-- **GitHub Issues**: https://github.com/hackingyseguridad/dnslist/issues
-- **Seguridad**: security@hackingyseguridad.com
-
-### Reportar Vulnerabilidades
-
-Si encuentras una vulnerabilidad en DNSList:
-1. **NO** la publiques
-2. Envía email a security@hackingyseguridad.com
-3. Incluye descripción, pasos y POC
-4. Espera confirmación (típicamente 48 horas)
-5. Coordina disclosure responsable
-
----
-
-### Referencias y Lecturas
+### Referencias 
 
 ### Documentación Técnica
 
