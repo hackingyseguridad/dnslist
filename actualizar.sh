@@ -3,6 +3,7 @@ echo "##################################################################"
 echo "... actualizando diccionarios ...  (R) 2026 hackingyseguridad.com "
 echo "##################################################################"
 echo
+chmod 777 *
 echo "...."
 echo "....."
 wget https://raw.githubusercontent.com/hackingyseguridad/diccionarios/refs/heads/master/subdominios.txt -q -O subdominios.txt  --inet4-only
@@ -18,4 +19,5 @@ wc -l subdominios3.txt
 echo "...."
 echo "....."
 echo
+
 
