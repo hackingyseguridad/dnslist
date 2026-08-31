@@ -1,6 +1,6 @@
 ### dnslist
 
-### DNSList - Enumeración de Subdominios mediante Fuerza Bruta con Diccionario
+### DNSList - Enumeración de subdominios mediante fuerza bruta con diccionario
 
 ###  Tabla de Contenidos
 
